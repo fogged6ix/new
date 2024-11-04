@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Команды/Pipes.md",
+                "file": "Команды/Чтение файлов.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipes"
+              "title": "Чтение файлов"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Команды/Pipes.md",
+                "file": "Команды/Чтение файлов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Pipes"
+              "title": "Обратные ссылки для Чтение файлов"
             }
           },
           {
@@ -164,10 +164,11 @@
   },
   "active": "0c2cda91f843c9a5",
   "lastOpenFiles": [
-    "Команды/Работа с директориями.md",
-    "Команды/Pipes.md",
-    "Команды/Создание и удаление файлов.md",
     "Команды/Утилита man.md",
+    "Команды/Чтение файлов.md",
+    "Команды/Работа с директориями.md",
+    "Команды/Создание и удаление файлов.md",
+    "Команды/Pipes.md",
     "Команды/Утилита 'ls'.md",
     "Команды CMD.md",
     "readme.md",
